@@ -1,0 +1,2 @@
+"node_modules/"     # Example for Node.js projects
+"*.log"              # Example to ignore log files
